@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1631590177 source:g:\hacking-work\for website\c++\project-1\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+
